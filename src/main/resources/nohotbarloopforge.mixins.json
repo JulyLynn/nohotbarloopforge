@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.julylynn.nohotbarloopforge.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "nohotbarloopforge.refmap.json",
+  "mixins": [
+    "MixinInventory"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

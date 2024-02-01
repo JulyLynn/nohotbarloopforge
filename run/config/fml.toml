@@ -1,0 +1,7 @@
+# Enable forge global version checking
+versionCheck = true
+defaultConfigPath = "defaultconfigs"
+disableOptimizedDFU = true
+splashscreen = true
+maxThreads = -1
+
